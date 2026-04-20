@@ -7,9 +7,9 @@ I build minimal, animated web experiences with a strong focus on clean interface
 ## About
 
 * Building modern web apps with React, TypeScript, and Tailwind CSS
-* Focused on frontend engineering, UI/UX, and product design
 * Currently working on projects like Flair and AI-powered web tools
-* Pursuing B.Sc. in Computer Science at 100x Schools of Technology
+* Pursuing B.Sc. in Computer Science at BitsPalini
+* leveling up at 100x Schools of Technology
 
 ## Stack
 
