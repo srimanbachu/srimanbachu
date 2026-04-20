@@ -1,63 +1,37 @@
-<div align="center">
+# Sriman Bachu
 
-# Hi 👋, I'm SRIMAN
+Frontend Developer & UI/UX Designer
 
-### A passionate developer from [Your Location]
+I build minimal, animated web experiences with a strong focus on clean interfaces, motion, and performance.
 
-</div>
+## About
 
-## 🚀 About Me
+* Building modern web apps with React, TypeScript, and Tailwind CSS
+* Focused on frontend engineering, UI/UX, and product design
+* Currently working on projects like Flair and AI-powered web tools
+* Pursuing B.Sc. in Computer Science at 100x Schools of Technology
 
-a frontend developer focused on building clean, modern, and interactive web experiences.
+## Stack
 
-## 🚀 Projects
+```txt
+Frontend   React • TypeScript • Vite • Tailwind CSS
+Backend    Node.js • Express • Prisma • PostgreSQL
+Tools      Git • GitHub • Figma • Bun • Vercel
+```
 
-| Project | Description | Links |
-|---|---|---|
-|  |  |  |
-|  |  |  |
+## Featured Projects
 
-### 
+* **Flair** — Create beautiful code cards and export them as high-quality images
+* **Expense Tracker** — Minimal finance tracking app with clean UI
+* **Gemini Clone** — AI-inspired interface built with modern frontend tools
 
-### 
+## Links
 
-## 🎓 Education
-
-| Institution | Degree | Duration |
-|---|---|---|
-| BitsPalini  | bachelor's  |  -  |
-
-### bachelor's  in computer science 
-*BitsPalini *
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/https://x.com/srimanbachu)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/srimanbachu/)
-
-</div>
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<!-- Visitor Count Badge: GitHub username required -->
-
-<!-- GitHub Trophy: GitHub username required -->
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/https://x.com/srimanbachu?style=social)](https://twitter.com/https://x.com/srimanbachu)
-
-</div>
+* Portfolio: srimanbachu.vercel.app
+* GitHub: github.com/srimanbachu
+* LinkedIn: linkedin.com/in/sriman-b-202a6435b
+* X: x.com/srimanbachu
 
 ---
 
-<div align="center">
-
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**Thank you for visiting my profile! 😊**
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
-
-</div>
+> Minimal design. Clean code. Better experiences.
