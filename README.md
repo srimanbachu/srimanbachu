@@ -26,12 +26,20 @@ Tools      Git • GitHub • Figma • Bun • Vercel
 * **Gemini Clone** — AI-inspired interface built with modern frontend tools
 
 ## Links
-
-* Portfolio: [srimanbachu.vercel.app](https://srimanbachu.vercel.app)
-* GitHub: [github.com/srimanbachu](https://github.com/srimanbachu)
-* LinkedIn: [linkedin.com/in/sriman-b-202a6435b](https://www.linkedin.com/in/sriman-b-202a6435b/)
-* X: [x.com/srimanbachu](https://x.com/srimanbachu)
-
+<p align="left">
+  <a href="https://srimanbachu.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/srimanbachu">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sriman-b-202a6435b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/srimanbachu">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 ---
 
 > Minimal design. Clean code. Better experiences.
