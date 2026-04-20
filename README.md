@@ -13,7 +13,7 @@ I build minimal, animated web experiences with a strong focus on clean interface
 
 ## Stack
 
-```txt
+```
 Frontend   React • TypeScript • Vite • Tailwind CSS
 Backend    Node.js • Express • Prisma • PostgreSQL
 Tools      Git • GitHub • Figma • Bun • Vercel
