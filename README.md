@@ -27,10 +27,10 @@ Tools      Git • GitHub • Figma • Bun • Vercel
 
 ## Links
 
-* Portfolio: srimanbachu.vercel.app
-* GitHub: github.com/srimanbachu
-* LinkedIn: linkedin.com/in/sriman-b-202a6435b
-* X: x.com/srimanbachu
+* Portfolio: [srimanbachu.vercel.app](https://srimanbachu.vercel.app)
+* GitHub: [github.com/srimanbachu](https://github.com/srimanbachu)
+* LinkedIn: [linkedin.com/in/sriman-b-202a6435b](https://www.linkedin.com/in/sriman-b-202a6435b/)
+* X: [x.com/srimanbachu](https://x.com/srimanbachu)
 
 ---
 
